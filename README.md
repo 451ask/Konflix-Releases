@@ -1,134 +1,110 @@
+:::writing{variant="document" id="58321"}
 # 🎬 Konflix
 
-**Konflix**, Android cihazlar için geliştirilmiş bir film, dizi ve canlı TV uygulamasıdır.
+**Konflix**, Android cihazlar için geliştirilmiş film, dizi ve canlı TV uygulamasıdır.
 
-Bu GitHub deposu, Konflix uygulamasının resmi APK dağıtımı, sürüm güncellemeleri ve sürüm dosyalarının kullanıcılarla paylaşılması amacıyla oluşturulmuştur.
+Film ve dizi içeriklerini keşfetmek, canlı yayınlara erişmek ve uygulama güncellemelerini takip etmek için Konflix'i kullanabilirsiniz.
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Package-com.konflix.tv-111111?style=for-the-badge](https://img.shields.io/badge/Package-com.konflix.tv-111111?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Version-v5-E50914?style=for-the-badge](https://img.shields.io/badge/Version-v5-E50914?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Distribution-GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Distribution-GitHub-181717?style=for-the-badge\&logo=github)" /> \</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version-v5-E50914?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Package-com.konflix.tv-111111?style=for-the-badge" />
+</p>
 
 ---
 
-## 📥 Konflix İndir
+## 📥 Konflix APK İndir
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/451ask/Konflix-Releases/releases/latest/download/Konflix-latest.apk](https://github.com/451ask/Konflix-Releases/releases/latest/download/Konflix-latest.apk)">
-&#x20;   \<img src="[https://img.shields.io/badge/⬇%20KONFLIX%20APK-HEMEN%20İNDİR-E50914?style=for-the-badge&logo=android&logoColor=white](https://img.shields.io/badge/⬇%20KONFLIX%20APK-HEMEN%20İNDİR-E50914?style=for-the-badge\&logo=android\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/451ask/Konflix-Releases/raw/refs/heads/main/Konflix-v5.apk">
+    <img src="https://img.shields.io/badge/KONFLIX%20V5-APK%20İNDİR-E50914?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+</p>
 
-**Güncel sürüm:** Konflix v5
+<p align="center">
+  **Güncel Sürüm: v5**
+</p>
 
-- [📦 En Son APK Dosyasını İndir](https://github.com/451ask/Konflix-Releases/blob/main/Konflix-v5.apk)
-- [🚀 Tüm Sürümler ve Güncelleme Notları](https://github.com/451ask/Konflix-Releases/releases)
-- [📥 Doğrudan Güncel APK İndir](https://github.com/451ask/Konflix-Releases/releases/latest/download/Konflix-latest.apk)
-
-> Not: En güncel sürümü ve doğrulanmış dosyaları Releases sayfasından takip etmenizi öneririz.
+- [📥 Konflix v5 APK – Doğrudan İndir](https://github.com/451ask/Konflix-Releases/raw/refs/heads/main/Konflix-v5.apk)
+- [📂 GitHub Deposu](https://github.com/451ask/Konflix-Releases/)
+- [📋 GitHub Sürümleri](https://github.com/451ask/Konflix-Releases/releases)
 
 ---
 
 ## 📱 Uygulama Bilgileri
 
-| Özellik      | Açıklama             |
-| ------------ | -------------------- |
-| Uygulama adı | Konflix              |
-| Paket adı    | `com.konflix.tv`     |
-| Platform     | Android              |
-| Güncel sürüm | v5                   |
-| Dosya biçimi | APK                  |
-| Dağıtım      | GitHub Releases      |
-| Güncelleme   | Uygulama içerisinden |
-| Destek       | Konflix Destek       |
+| Özellik | Bilgi |
+|---|---|
+| Uygulama | Konflix |
+| Sürüm | v5 |
+| Paket adı | `com.konflix.tv` |
+| Platform | Android |
+| Dosya biçimi | APK |
+| Android TV | Desteklenir |
+| TV Box | Desteklenir |
+| Güncelleme | Uygulama içerisinden |
 
-## ✨ Konflix Özellikleri
+## ✨ Özellikler
 
 - 🎬 Film içerikleri
 - 📺 Dizi içerikleri
-- 📡 Canlı TV desteği
-- 🔍 İçerik keşfetme ve arama
+- 📡 Canlı TV
+- 🔍 İçerik arama ve keşfetme
 - 📱 Android telefon ve tablet desteği
 - 📺 Android TV ve TV Box desteği
-- 🔄 Uygulama üzerinden güncelleme
-- ⚡ Sürekli geliştirilen uygulama altyapısı
+- 🔄 Uygulama içi güncelleme sistemi
+- ⚡ Sürekli geliştirilen altyapı
 
 *Özelliklerin kullanılabilirliği uygulama sürümüne göre değişebilir.*
-
----
 
 ## 📲 Kurulum
 
 1. Yukarıdaki APK indirme bağlantısını açın.
-2. Güncel Konflix APK dosyasını indirin.
-3. Android cihazınızda indirilen APK dosyasını açın.
-4. Gerekirse Android ayarlarından ilgili kaynağa uygulama yükleme izni verin.
-5. Kurulumu tamamlayın ve Konflix'i açın.
+2. Konflix APK dosyasını indirin.
+3. İndirilen APK dosyasını Android cihazınızda açın.
+4. Gerekirse bilinmeyen kaynaklardan yükleme iznini etkinleştirin.
+5. Kurulumu tamamlayıp uygulamayı açın.
 
-**Önemli:** Mevcut Konflix kurulumunun üzerine güncelleme yaparken aynı imzaya sahip resmi APK dosyasını kullanın. Uygulamayı kaldırmak, yerel uygulama verilerinin kaybolmasına neden olabilir.
+**Önemli:** Güncelleme sırasında mevcut uygulamanın üzerine kurulum yapın. Uygulamayı kaldırmanız yerel verilerin kaybolmasına neden olabilir.
 
 ## 🔄 Güncellemeler
 
 Konflix güncellemeleri uygulama içerisinden sunulmaktadır.
 
-Yeni sürümler, hata düzeltmeleri ve geliştirmeler yayınlandıkça GitHub Releases sayfasında paylaşılabilir.
+Yeni sürümler ve değişiklikler yayınlandığında bu depo üzerinden duyurulabilir.
 
-[GitHub Releases sayfasını ziyaret edin →](https://github.com/451ask/Konflix-Releases/releases)
+## 🛠️ Hata Bildirimi
 
-## 🔐 Dosya Güvenliği
+Bir sorunla karşılaşırsanız aşağıdaki bilgileri paylaşın:
 
-Kullanıcıların indirdikleri APK dosyalarını doğrulayabilmeleri için sürüm bazında SHA-256 kontrol toplamları paylaşılabilir.
-
-Windows üzerinden SHA-256 kontrolü:
-
-```powershell
-Get-FileHash .\Konflix-v5.apk -Algorithm SHA256
-```
-
-Çıkan SHA-256 değerini ilgili sürümün yayımlanmış kontrol toplamıyla karşılaştırın.
-
-Yalnızca resmi Konflix dağıtım bağlantılarını kullanın.
-
-## 🛠️ Hata Bildirimi ve Destek
-
-Uygulamada karşılaştığınız sorunları bildirirken aşağıdaki bilgileri paylaşmanız sorunun daha hızlı incelenmesine yardımcı olacaktır:
-
-- Cihaz markası ve modeli
+- Cihaz marka ve modeli
 - Android sürümü
-- Yüklü Konflix sürümü
-- Karşılaşılan hatanın açıklaması
-- Uygulama log çıktısı
-- Varsa hata ekranının görüntüsü
+- Konflix sürümü
+- Hata açıklaması
+- Varsa ekran görüntüsü
+- Varsa uygulama log çıktısı
 
-Hata bildirimlerinde kişisel bilgilerinizi, parolalarınızı veya erişim anahtarlarınızı paylaşmayın.
+Parola, erişim anahtarı veya kişisel bilgilerinizi hata bildirimlerinde paylaşmayın.
 
 ## 📋 Sürüm Geçmişi
 
-| Sürüm  | Açıklama               |
-| ------ | ---------------------- |
-| v5     | Güncel uygulama sürümü |
-| v4.2.2 | Önceki kararlı sürüm   |
+| Sürüm | Durum |
+|---|---|
+| v5 | Güncel sürüm |
+| v4.2.2 | Önceki sürüm |
 
-Ayrıntılı değişiklikler için [Releases](https://github.com/451ask/Konflix-Releases/releases) sayfasını inceleyebilirsiniz.
+## 🔗 Resmî Bağlantılar
 
-## ⚠️ Önemli Bilgilendirme
-
-- Bu depo yalnızca Android APK dağıtımı içindir.
-- Uygulamanın kaynak kodları bu depoda bulunmamaktadır.
-- APK dosyalarını yalnızca resmi dağıtım bağlantılarından indirin.
-- Uygulama güncellemelerini uygulama içerisinden takip edin.
-- İçeriklerin kullanılabilirliği bölgeye ve ilgili yayın haklarına bağlı olabilir.
+- [GitHub](https://github.com/451ask/Konflix-Releases/)
+- [Instagram @konflixwatch](https://www.instagram.com/konflixwatch/)
+- [Telegram Konflix](https://t.me/konflixwatch)
 
 ---
 
-\<p align="center">
-&#x20; \<strong>🎬 KONFLIX\</strong>
-&#x20; \<br />
-&#x20; Film • Dizi • Canlı TV
-&#x20; \<br />\<br />
-&#x20; \<a href="[https://github.com/451ask/Konflix-Releases/releases](https://github.com/451ask/Konflix-Releases/releases)">GitHub Releases\</a>
-&#x20; ·
-&#x20; \<a href="[https://www.instagram.com/konflixwatch/](https://www.instagram.com/konflixwatch/)">Instagram\</a>
-&#x20; ·
-&#x20; \<a href="[https://t.me/konflixwatch](https://t.me/konflixwatch)">Telegram\</a>
-&#x20; \<br />\<br />
-&#x20; \<sub>© Konflix. Tüm hakları saklıdır.\</sub>
-\</p>
-
+<p align="center">
+  **🎬 KONFLIX**
+  <br />
+  Film • Dizi • Canlı TV
+  <br /><br />
+  <sub>© Konflix. Tüm hakları saklıdır.</sub>
+</p>
